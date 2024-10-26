@@ -47,3 +47,8 @@ Navigate to the /client directory.
 Run npx expo start in your terminal to start the client.
 Open a separate terminal window and navigate to the /server directory.
 Run node index.js to start the server.
+
+Contributors:
+Joseph Jatou - https://github.com/Coder-Man-2006
+Myeongjin (Daniel) - https://github.com/DanisLol
+Brian An - https://github.com/Brian-An
